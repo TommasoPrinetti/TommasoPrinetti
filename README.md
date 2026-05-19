@@ -1,4 +1,5 @@
-I'm a generalist.
-I'm focused on innovation and emerging technologies, working in interdisciplinary teams to bring a human-centered and use-oriented perspective to complex projects.
-I design both products and the infrastructure around them.
-My effort is oriented towards enabling people to actually do, explore and act through carefully designed tools.
+Design Engineer & Product Designer
+I work across AI inter faces, complex operational tools, and data-driven systems. By combining UX
+res earch, interaction des ign, rapid protot yping, and front-end development, I build inter faces,
+des ign systems, and human-AI work flows. I thrive in multidisciplinary teams, where I bring a
+human-centered perspective to technically complex projects.
