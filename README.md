@@ -1,5 +1,5 @@
-Design Engineer & Product Designer
-I work across AI inter faces, complex operational tools, and data-driven systems. By combining UX
-res earch, interaction des ign, rapid protot yping, and front-end development, I build inter faces,
-des ign systems, and human-AI work flows. I thrive in multidisciplinary teams, where I bring a
-human-centered perspective to technically complex projects.
+Product Designer - AI Tools, Internal Platforms, LLM Workflows
+I am a Product Designer focus ed on AI tools, internal platforms, and complex workflows. I design and build inter faces,
+research tools, and operational systems that turn fragmented data, manual processes, and LLM based work into us able software.
+My practice combines UX, product thinking, frontend development, data vis ualization, and systems design.
+Currently working at medialab Sciences Po on privacy first research tools, LLM workflows, and AI research infrastructure.
